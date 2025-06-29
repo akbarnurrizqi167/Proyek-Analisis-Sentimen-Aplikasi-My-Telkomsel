@@ -64,12 +64,12 @@ Model diuji menggunakan metrik:
 ---
 
 ## ✅ Kriteria yang Dipenuhi
--✔️ Menggunakan algoritma Deep Learning (LSTM)
--✔️ Akurasi training dan testing > 92%
--✔️ Dataset terdiri dari 3 kelas sentimen
--✔️ Dataset memiliki lebih dari 10.000 data ulasan
--✔️ Menerapkan 3 skema pelatihan model
--✔️ Menyertakan visualisasi data (Word Cloud)
+- ✔️ Menggunakan algoritma Deep Learning (LSTM)
+- ✔️ Akurasi training dan testing > 92%
+- ✔️ Dataset terdiri dari 3 kelas sentimen
+- ✔️ Dataset memiliki lebih dari 10.000 data ulasan
+- ✔️ Menerapkan 3 skema pelatihan model
+- ✔️ Menyertakan visualisasi data (Word Cloud)
 
 ## 🎯 Manfaat
 1. Memberikan insight terkait kepuasan atau keluhan pengguna terhadap aplikasi
